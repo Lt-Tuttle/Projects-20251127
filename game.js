@@ -8,8 +8,8 @@ const player = {
     x: 50,
     y: 50,
     size: 30,
-    dx: 4,
-    dy: 4,
+    dx: 2,
+    dy: 2,
     color: '#00d2ff'
 };
 
